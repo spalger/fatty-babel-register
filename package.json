@@ -1,6 +1,6 @@
 {
   "name": "@spalger/fatty-babel-register",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "babel/register command compiled into a single module with the intention of speeding up load time",
   "main": "dist/fatty-babel-register.js",
   "scripts": {
