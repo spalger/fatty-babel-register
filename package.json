@@ -1,0 +1,21 @@
+{
+  "name": "@spalger/fatty-babel-register",
+  "version": "0.0.1",
+  "description": "babel/register command compiled into a single module with the intention of speeding up load time",
+  "main": "dist/fatty-babel-register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "webpack"
+  },
+  "keywords": [],
+  "author": "Spencer Alger <email@spalger.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "json-loader": "^0.5.3",
+    "raw-loader": "^0.5.1",
+    "replace-loader": "^0.1.0",
+    "webpack": "^1.12.2",
+    "webpack-core": "^0.6.7"
+  }
+}
