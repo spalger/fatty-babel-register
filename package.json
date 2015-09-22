@@ -17,5 +17,13 @@
     "replace-loader": "^0.1.0",
     "webpack": "^1.12.2",
     "webpack-core": "^0.6.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spalger/fatty-babel-register.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spalger/fatty-babel-register/issues"
+  },
+  "homepage": "https://github.com/spalger/fatty-babel-register#readme"
 }
